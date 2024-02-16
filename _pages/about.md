@@ -9,7 +9,7 @@ profile:
   image: profile_sijia.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>No. 443, Huangshan Road, Shushan District</p>
+    <p>No. 443, Huangshan Road</p>
     <p>Hefei, Anhui</p>
 
 news: true # includes a list of news items
