@@ -19,3 +19,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi! I am Sijia Li. I am currently a third-year master's student at [University of Science and Technology of China](https://www.ustc.edu.cn), advised by [Prof. Zuqing Zhu](https://www.zuqingzhu.info). My research are in the board areas of operating systems and networks, with a recent focus on memory systems.
+
+Education
