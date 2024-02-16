@@ -22,4 +22,4 @@ Hi! I am Sijia Li. I am currently a 3rd year master's student in [Department of 
 
 My research are in the board areas of operating systems and networks, with a recent focus on memory systems.
 
-Extracurricularly, I enjoy running and swimming. # I also joined the school choir and painting club.
+Extracurricularly, I also enjoy running and swimming.
