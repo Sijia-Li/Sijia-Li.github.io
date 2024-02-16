@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I’m so excited to share that I will be pursuing a PhD degree at Virginia Tech under the supervision of [Prof. Huaicheng Li](https://huaicheng.github.io)! :sparkles: :smile:
