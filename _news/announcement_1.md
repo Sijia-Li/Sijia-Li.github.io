@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m so excited to share that I will be pursuing a PhD degree at Virginia Tech under the supervision of [Prof. Huaicheng Li](https://huaicheng.github.io)!
+I’m so excited to share that I will be pursuing a PhD degree at [Virginia Tech](https://www.vt.edu) under the supervision of [Prof. Huaicheng Li](https://huaicheng.github.io)!
