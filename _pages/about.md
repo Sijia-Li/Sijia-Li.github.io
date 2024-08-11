@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile_sijia.png
+  image: profile_sijia.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>No. 443, Huangshan Road</p>
