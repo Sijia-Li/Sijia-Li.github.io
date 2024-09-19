@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Sijia Li (李思佳). I am currently a third-year master's student in [Department of Electronic Engineering and Information Science](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China](https://www.ustc.edu.cn) (USTC), advised by [Prof. Zuqing Zhu](https://www.zuqingzhu.info). I received my bachelor's degree in Electronic Information Engineering from USTC in Jul 2020.
+Hi! My name is Sijia Li (李思佳). I am currently a first-year PhD student in the [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://www.vt.edu/), advised by [Prof. Huaicheng Li](https://huaicheng.github.io/). I received both my bachelor's and master's degree in Electronic Information Engineering at [University of Science and Technology of China](https://en.ustc.edu.cn/), advised by [Prof. Zuqing Zhu](http://www.zuqingzhu.info/).
 
-My research interests are in the broad areas of operating systems and networks, with a recent focus on memory systems.
+My research interests are in the broad areas of operating systems and networks, with a recent focus on shared memory systems.
 
 Extracurricularly, I also enjoy running and swimming.
